@@ -1,0 +1,13 @@
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\netcoreapp3.1\pooMaiorIdade.exe
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\netcoreapp3.1\pooMaiorIdade.deps.json
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\netcoreapp3.1\pooMaiorIdade.runtimeconfig.json
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\netcoreapp3.1\pooMaiorIdade.runtimeconfig.dev.json
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\netcoreapp3.1\pooMaiorIdade.dll
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\bin\Debug\netcoreapp3.1\pooMaiorIdade.pdb
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\netcoreapp3.1\pooMaiorIdade.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\netcoreapp3.1\pooMaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\netcoreapp3.1\pooMaiorIdade.AssemblyInfoInputs.cache
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\netcoreapp3.1\pooMaiorIdade.AssemblyInfo.cs
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\netcoreapp3.1\pooMaiorIdade.dll
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\netcoreapp3.1\pooMaiorIdade.pdb
+C:\Users\danii\source\repos\pooMaiorIdade\pooMaiorIdade\obj\Debug\netcoreapp3.1\pooMaiorIdade.genruntimeconfig.cache
